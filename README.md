@@ -1,16 +1,48 @@
-## Hi there 👋
+[Large custom AI-engineering banner]
 
-<!--
-**SakthiQ/SakthiQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Sakthi
 
-Here are some ideas to get you started:
+AI Engineer | Computer Science @ VIT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+    ↓
+AI / GenAI / RAG / Agentic AI
+Oracle Fusion Cloud AI experience
+Backend engineering
+Enterprise AI systems
+
+Current Focus
+    ↓
+• RAG systems
+• AI Agents
+• LLM applications
+• Context engineering
+• Backend systems
+
+Tech Stack
+    ↓
+Python | Java | Spring Boot | React
+PostgreSQL | MongoDB | Docker
+LangChain | LlamaIndex | Vector DBs
+
+Experience
+    ↓
+Hexaware
+Oracle Fusion Cloud AI / AI Agent Studio
+
+Wheels India
+SAP Internship
+
+Featured Projects
+    ↓
+Ask My Documents
+Enterprise Operations Copilot
+HotReload
+PayGuard
+...
+
+GitHub Stats
+Contribution Graph
+
+Let's Connect
+LinkedIn | Instagram | Email
