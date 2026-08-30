@@ -159,7 +159,7 @@ Transforms complex medical jargon into clear, patient-understandable explanation
 - 💼 Worked with Oracle Fusion Cloud and enterprise ERP systems
 - 🔬 Developed clinical NLP pipelines for healthcare applications
 - 🚀 Created developer tools that improve productivity
-- �� Continuous learner in AI, ML, and system design
+- 📚 Continuous learner in AI, ML, and system design
 
 ---
 
@@ -179,6 +179,7 @@ I'm always excited to collaborate, discuss AI innovations, or help with backend 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakthinarayan-v)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SakthiQ)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sakuthi.v/)
 
 ---
 
