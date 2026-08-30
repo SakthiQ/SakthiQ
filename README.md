@@ -1,201 +1,131 @@
-# 👋 Hey, I'm Sakthi Q
-
-**Computer Science & Engineering Undergraduate | Aspiring AI Engineer | Generative AI & Backend Developer**
-
-Passionate about building intelligent systems that bridge AI and enterprise applications. I specialize in designing production-grade Generative AI solutions, RAG pipelines, and scalable backend architectures. Currently diving deep into agentic AI, context engineering, and transforming complex problems into elegant solutions.
-
----
-
-## 🎯 What I'm Currently Focused On
-
-- 🤖 **Production Generative AI Systems** - Building robust RAG pipelines, AI agents, and context-engineered solutions
-- 🏗️ **Enterprise AI Applications** - Leveraging Oracle Fusion Cloud AI Agent Studio and ERP systems
-- 💻 **Backend Excellence** - Mastering Java, Spring Boot, system design, and DSA for software engineering
-- 🧠 **Agentic AI & Context Engineering** - Advancing multi-step reasoning and intelligent decision-making systems
-- 🔬 **Machine Learning** - Exploring LLMs, embeddings, and domain-specific AI solutions
-
----
-
-## 🛠️ Tech Stack
-
-### **Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### **Backend & Frameworks**
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **AI/ML & LLM Technologies**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-00D4FF?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD54F?style=for-the-badge&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-FFD54F?style=for-the-badge)
-![BERT](https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-0071C5?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-00AA44?style=for-the-badge)
-
-### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### **Enterprise**
-![Oracle](https://img.shields.io/badge/Oracle%20Fusion-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0CBCE6?style=for-the-badge&logo=sap&logoColor=white)
-
----
-
-## 🚀 Core Competencies
-
-| **Generative AI & LLM** | **Backend Development** | **Data & Databases** | **System Design** |
-|:---:|:---:|:---:|:---:|
-| RAG Pipelines | Spring Boot | SQL Optimization | Scalability |
-| AI Agents | Microservices | Vector Databases | Performance |
-| Context Engineering | REST APIs | Embeddings | Architecture |
-| Prompt Engineering | Authentication | Data Engineering | DevOps |
-
----
-
-## 📂 Featured Projects
-
-### 🎓 **Ask My Documents**
-**A Local-First RAG Platform for Private Document Interaction**
-
-Intelligent system that enables semantic search and hybrid retrieval over private documents without sending data to external servers.
-
-**Key Features:**
-- 📄 Document chunking & embedding pipeline
-- 🔍 Hybrid retrieval (semantic + BM25)
-- 💾 ChromaDB for vector storage
-- 🤖 LLM-based generation with source citations
-- 🔒 Privacy-first, local-first architecture
-
-**Tech Stack:** Python, LangChain, LlamaIndex, ChromaDB, FAISS, Transformers, FastAPI
-
-**GitHub:** [View Repository](https://github.com/SakthiQ)
-
----
-
-### ⚡ **HotReload**
-**Lightning-Fast Development CLI for Go Applications**
-
-A lightweight, modular file watcher that monitors project changes and automatically rebuilds & restarts your development server—no more manual restarts.
-
-**Key Features:**
-- 👁️ Real-time file monitoring with fsnotify
-- 🔄 Automatic build & restart on changes
-- 🧩 Modular architecture (watcher, builder, runner, logger)
-- ⚙️ Configurable watch patterns
-- 🚀 Fast & efficient
-
-**Tech Stack:** Go, fsnotify, CLI Development
-
-**GitHub:** [View Repository](https://github.com/SakthiQ)
-
----
-
-### 🏥 **Medical Miscommunication Detector / Clinical NLP System**
-**End-to-End Clinical NLP Pipeline for Patient-Friendly Medical Report Explanations**
-
-Transforms complex medical jargon into clear, patient-understandable explanations with evidence grounding and multilingual support.
-
-**Key Features:**
-- 📝 Clinical text segmentation & parsing
-- 🔬 BioBERT-based medical entity extraction
-- 🧠 Sentence-Transformer embeddings for semantic understanding
-- 🔍 FAISS-powered evidence retrieval
-- 🤖 LLM-grounded text generation with citations
-- 🌐 Multilingual translation support
-- 🔊 Text-to-speech capabilities
-
-**Tech Stack:** Python, BioBERT, Sentence-Transformers, FAISS, LLMs, spaCy, Google Translate API, pyttsx3
-
-**GitHub:** [View Repository](https://github.com/SakthiQ)
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakthiQ&show_icons=true&theme=radical&count_private=true)
+<img src="./assets/pixel-banner.svg" width="100%" alt="Pixel art coding workspace banner"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SakthiQ&theme=radical)
+👋 Hey, I'm Sakthi Q
+Computer Science & Engineering Undergraduate · Aspiring AI Engineer · Generative AI & Backend Developer
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SakthiQ&layout=compact&theme=radical)
+<p> <a href="https://github.com/SakthiQ"> <img src="https://img.shields.io/badge/GitHub-SakthiQ-111827?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/sakthinarayan-v"> <img src="https://img.shields.io/badge/LinkedIn-Sakthi%20Narayan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://www.instagram.com/sakuthi.v/"> <img src="https://img.shields.io/badge/Instagram-sakuthi.v-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+production-grade+Generative+AI+systems;RAG+%7C+Agentic+AI+%7C+Context+Engineering;Backend+Engineering+with+Java+%26+Spring+Boot;Turning+complex+problems+into+clean+systems" alt="Typing animation"/>
 
 </div>
 
----
+🧠 About Me
+Computer Science & Engineering undergraduate focused on building intelligent systems that connect AI with enterprise applications.
 
-## 🎓 Internship & Experience
+My current engineering focus is on RAG pipelines, AI agents, context engineering, LLM applications, and scalable backend systems. I also have exposure to enterprise platforms through work with Oracle Fusion Cloud AI Agent Studio and ERP workflows.
 
-**Oracle Fusion Cloud** | AI Agent Studio & ERP Systems
-- Enterprise AI application development
-- Cloud-based system integration
-- AI-driven business process automation
+AI Engineering      ███████████████████░░
+Backend Engineering █████████████████░░░░
+System Design       ██████████████░░░░░░░
+DSA                 ███████████████░░░░░
+Cloud / DevOps      ████████████░░░░░░░░
+⚙️ What I'm Working On
+🤖 Production RAG systems, retrieval pipelines and grounded generation
 
----
+🧩 Agentic AI, tool use and context engineering
 
-## 🏆 Achievements & Highlights
+☕ Java, Spring Boot, REST APIs, microservices and backend architecture
 
-- 🤖 Built production-grade RAG systems with enterprise-scale retrieval
-- 🎯 Implemented AI agents with sophisticated context engineering
-- 💼 Worked with Oracle Fusion Cloud and enterprise ERP systems
-- 🔬 Developed clinical NLP pipelines for healthcare applications
-- 🚀 Created developer tools that improve productivity
-- 📚 Continuous learner in AI, ML, and system design
+🏢 Enterprise AI applications around Oracle Fusion Cloud and ERP workflows
 
----
+🧠 LLMs, embeddings, vector databases and domain-specific NLP
 
-## 🌱 Currently Learning
+💻 Tech Stack
+Languages
+<p> <img src="https://skillicons.dev/icons?i=java,python,js,go,c,cpp&perline=8" /> </p>
 
-- Advanced system design & distributed systems
-- Prompt engineering & fine-tuning techniques
-- Agentic AI frameworks & multi-agent orchestration
-- Data structures & algorithms for interview excellence
-- Cloud-native architecture patterns
+Backend & Frontend
+<p> <img src="https://skillicons.dev/icons?i=spring,nodejs,express,react,tailwind&perline=8" /> </p>
 
----
+AI / ML / RAG
+<p> <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=8" /> </p>
 
-## 🤝 Let's Connect!
+<p align="center"> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/LlamaIndex-6B4FBB?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/FAISS-0071C5?style=flat-square"/> <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square"/> <img src="https://img.shields.io/badge/BERT-FF6F00?style=flat-square"/> </p>
 
-I'm always excited to collaborate, discuss AI innovations, or help with backend challenges. Reach out to me:
+Databases / DevOps / Enterprise
+<p> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,aws,git&perline=8" /> </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakthinarayan-v)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SakthiQ)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sakuthi.v/)
+<p align="center"> <img src="https://img.shields.io/badge/Oracle%20Fusion%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white"/> </p>
 
----
+🚀 Featured Projects
+📄 Ask My Documents
+Local-first RAG platform for private document interaction
 
-## 💡 Open to Opportunities
+A privacy-first system for semantic search and grounded answers over local documents.
 
-- 🎯 **Full-time roles** in AI Engineering, Backend Development, or ML Engineering
-- 🤝 **Open-source collaboration** on AI/ML projects
-- 💬 **Knowledge sharing** about RAG, LLMs, and backend systems
-- 🚀 **Building together** on innovative AI solutions
+Stack: Python · LangChain · LlamaIndex · ChromaDB · FAISS · Transformers · FastAPI
 
----
+Hybrid Retrieval · BM25 · Embeddings · Citations · Local LLM
+
+⚡ HotReload
+Lightning-fast development CLI for Go
+
+A modular file watcher that detects source changes, rebuilds the project and restarts the development server automatically.
+
+Stack: Go · fsnotify · CLI development
+
+Watcher · Builder · Runner · Logger · Cross-platform
+
+🏥 Medical Miscommunication Detector
+Clinical NLP pipeline for patient-friendly medical explanations
+
+Transforms complex medical reports into understandable explanations using clinical NLP, evidence retrieval and multilingual output.
+
+Stack: Python · BioBERT · Sentence Transformers · FAISS · spaCy · LLMs
+
+Clinical NER · Evidence Retrieval · Grounded Generation · Translation · TTS
+
+🏢 Experience
+Hexaware Technologies — R&D Intern
+
+Worked with Oracle Fusion Cloud AI Agent Studio, focusing on enterprise AI use cases across Inventory Management and Procurement.
+
+Enterprise AI · Oracle Fusion Cloud · AI Agents · ERP
+
+🏆 Highlights
+🎯  Generative AI & RAG systems
+🏢  Oracle Fusion Cloud AI Agent Studio
+🧠  Agentic AI & Context Engineering
+🔬  Clinical NLP & evidence-grounded generation
+⚙️  Backend systems & developer tooling
+🏅  Hackathon / project-based engineering experience
+📊 GitHub Stats
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SakthiQ&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakthiQ&layout=compact&hide_border=true&theme=github_dark&count_private=true"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=SakthiQ&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+🧩 Core Competencies
+Generative AI	Backend	Data	System Design
+RAG Pipelines	Spring Boot	SQL	Scalability
+AI Agents	Microservices	Vector DBs	Performance
+Context Engineering	REST APIs	Embeddings	Architecture
+Prompt Engineering	Authentication	Data Engineering	DevOps
+📚 Currently Learning
+Advanced System Design · Distributed Systems · Agentic AI · Multi-Agent Orchestration · Cloud-Native Architecture · DSA
+
+🤝 Let's Connect
+<div align="center">
+
+Building AI systems. Learning backend engineering. Shipping real projects.
+
+<a href="https://www.linkedin.com/in/sakthinarayan-v"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/SakthiQ"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.instagram.com/sakuthi.v/"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+
+</div>
 
 <div align="center">
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=SakthiQ.SakthiQ)
+<img src="https://komarev.com/ghpvc/?username=SakthiQ&style=flat-square&color=58A6FF" alt="Profile views"/>
 
-**Made with ❤️ by Sakthi Q** | Always building, always learning
+Open to AI Engineering · Backend Engineering · ML Engineering opportunities
 
 </div>
