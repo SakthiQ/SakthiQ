@@ -25,11 +25,13 @@ Computer Science & Engineering undergraduate focused on building intelligent sys
 My current engineering focus is on **RAG pipelines, AI agents, context engineering, LLM applications, and scalable backend systems**. I also have exposure to enterprise platforms through work with **Oracle Fusion Cloud AI Agent Studio** and ERP workflows.
 
 ```text
-AI Engineering       ███████████████████░
-Backend Engineering  █████████████████░░░
-System Design        ██████████████░░░░░░
-DSA                  ███████████████░░░░░
-Cloud / DevOps       ████████████░░░░░░░░
+Generative AI & RAG   ███████████████████░
+Backend Engineering   █████████████████░░░
+ML & NLP              ████████████████░░░░
+Frontend (React · TS) ███████████████░░░░░
+DSA                   ███████████████░░░░░
+System Design         ██████████████░░░░░░
+DevOps & Cloud        ████████████░░░░░░░░
 ```
 
 ## ⚙️ What I'm Working On
@@ -164,12 +166,13 @@ Worked with **Oracle Fusion Cloud AI Agent Studio**, focusing on enterprise AI u
 
 ## 🧩 Core Competencies
 
-| Generative AI | Backend | Data | System Design |
-|---|---|---|---|
-| RAG Pipelines | Spring Boot | SQL | Scalability |
-| AI Agents | Microservices | Vector DBs | Performance |
-| Context Engineering | REST APIs | Embeddings | Architecture |
-| Prompt Engineering | Authentication | Data Engineering | DevOps |
+| Generative AI | Backend | Frontend | ML & NLP | Data & DevOps |
+|---|---|---|---|---|
+| RAG Pipelines | FastAPI | React | Medical NER | PostgreSQL · MySQL |
+| Hybrid Search & Reranking | Spring Boot | TypeScript | Embeddings & Semantic Search | MongoDB · Redis |
+| AI Agents & Context Engineering | Node.js · Express | Next.js · Vite | Classification (scikit-learn, XGBoost) | Vector DBs (FAISS, ChromaDB) |
+| LLM Guardrails & Answer Verification | REST APIs · JWT Auth · RBAC | Tailwind CSS | Computer Vision (OpenCV) | Docker · GitHub Actions |
+| Prompt Engineering | Background Workers | Streamlit | RAG Evaluation (RAGAS) | AWS |
 
 ## 📚 Currently Learning
 
