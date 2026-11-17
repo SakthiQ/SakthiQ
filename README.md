@@ -44,28 +44,38 @@ Cloud / DevOps       ████████████░░░░░░░�
 
 ### Languages
 
-<p><img src="https://skillicons.dev/icons?i=java,python,js,go,c,cpp&perline=8" alt="Languages"/></p>
+<p><img src="https://skillicons.dev/icons?i=python,ts,java,js,go,solidity&perline=8" alt="Python, TypeScript, Java, JavaScript, Go, Solidity"/></p>
 
 ### Backend & Frontend
 
-<p><img src="https://skillicons.dev/icons?i=spring,nodejs,express,react,tailwind&perline=8" alt="Backend and frontend"/></p>
+<p><img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,express,react,nextjs,vite,tailwind&perline=8" alt="FastAPI, Spring Boot, Node.js, Express, React, Next.js, Vite, Tailwind CSS"/></p>
 
 ### AI / ML / RAG
 
-<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=8" alt="AI and ML"/></p>
+<p><img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&perline=8" alt="PyTorch, scikit-learn, OpenCV"/></p>
 
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-6B4FBB?style=flat-square&logoColor=white" alt="LlamaIndex"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face Transformers"/>
+  <img src="https://img.shields.io/badge/Sentence%20Transformers-3B82F6?style=flat-square" alt="Sentence Transformers"/>
   <img src="https://img.shields.io/badge/FAISS-0071C5?style=flat-square" alt="FAISS"/>
   <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square" alt="ChromaDB"/>
-  <img src="https://img.shields.io/badge/BERT-FF6F00?style=flat-square" alt="BERT"/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" alt="spaCy"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </p>
 
-### Databases / DevOps / Enterprise
+### Databases / DevOps / Web3
 
-<p><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,aws,git&perline=8" alt="Databases and DevOps"/></p>
+<p><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,docker,aws,githubactions,git&perline=9" alt="PostgreSQL, MySQL, MongoDB, Redis, Supabase, Docker, AWS, GitHub Actions, Git"/></p>
+
+<p>
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logoColor=black" alt="Hardhat"/>
+  <img src="https://img.shields.io/badge/ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white" alt="ethers.js"/>
+  <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white" alt="OpenZeppelin"/>
+</p>
+
+### Enterprise
 
 <p>
   <img src="https://img.shields.io/badge/Oracle%20Fusion%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Fusion Cloud"/>
