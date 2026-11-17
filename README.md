@@ -125,8 +125,8 @@ Worked with **Oracle Fusion Cloud AI Agent Studio**, focusing on enterprise AI u
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SakthiQ&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&count_private=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakthiQ&layout=compact&hide_border=true&theme=github_dark&count_private=true" alt="Top languages"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SakthiQ&theme=github_dark" alt="GitHub stats"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SakthiQ&theme=github_dark" alt="Top languages by commit"/>
 
 <br/>
 
