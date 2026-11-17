@@ -104,6 +104,16 @@ Turns hard-to-read medical reports into plain-language explanations grounded in 
 
 `Medical NER` `Negation Detection` `Grounded Generation` `Safety Validation` `Translation` `TTS`
 
+### ⚡ [HotReload](https://github.com/SakthiQ/Hotreload)
+
+**Zero-ceremony hot reload CLI for Go**
+
+Watches your project, rebuilds it and restarts the running server on save. About 700 lines of Go with a single dependency, with crash-loop backoff and first-class Windows, macOS and Linux support.
+
+**Stack:** Go · fsnotify · slog · Make · GitHub Actions
+
+`File Watcher` `Auto Rebuild` `Process Restart` `Crash-loop Backoff` `Cross-platform`
+
 ## 🏢 Experience
 
 ### Hexaware Technologies — R&D Intern
