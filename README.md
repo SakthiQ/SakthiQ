@@ -74,35 +74,35 @@ Cloud / DevOps       ████████████░░░░░░░�
 
 ## 🚀 Featured Projects
 
-### 📄 Ask My Documents
+### 🏥 [Healthcare Appointment & Follow-up Manager](https://github.com/SakthiQ/Healthcare-Appointment-Follow-up-Manager)
 
-**Local-first RAG platform for private document interaction**
+**Open-source hospital management platform with AI built in**
 
-A privacy-first system for semantic search and grounded answers over local documents.
+Separate portals for patients, doctors and admins. AI turns patient symptoms into a pre-visit summary for the doctor, and doctor notes into a plain-language summary and medication schedule for the patient. Email reminders and Google Calendar sync run in the background, and a booking never fails because an outside service is down.
 
-**Stack:** Python · LangChain · LlamaIndex · ChromaDB · FAISS · Transformers · FastAPI
+**Stack:** Python · FastAPI · PostgreSQL · SQLAlchemy · React · TypeScript · Vite · LLMs
 
-`Hybrid Retrieval` `BM25` `Embeddings` `Citations` `Local LLM`
+`Role-based Portals` `AI Summaries` `Reminders` `Calendar Sync` `CI-tested`
 
-### ⚡ HotReload
+### 🛡️ [ATTS-RAG](https://github.com/SakthiQ/ATTS-RAG)
 
-**Lightning-fast development CLI for Go**
+**Adaptive Threat-Intelligence Trusted & Secure RAG**
 
-A modular file watcher that detects source changes, rebuilds the project and restarts the development server automatically.
+Fully local document Q&A where every sentence of an answer is checked against the source documents and cited. Three security layers screen questions for prompt injection, filter evidence by tenant and clearance, and drop any claim the evidence doesn't support.
 
-**Stack:** Go · fsnotify · CLI development
+**Stack:** Python · FastAPI · LangChain · Ollama · Sentence Transformers · Streamlit
 
-`Watcher` `Builder` `Runner` `Logger` `Cross-platform`
+`Hybrid Search` `BM25` `Reranking` `Prompt-Injection Defense` `Verified Citations`
 
-### 🏥 Medical Miscommunication Detector
+### 🩺 [Medical Miscommunication Detector](https://github.com/SakthiQ/nlp-medical-miscommunication-detector)
 
 **Clinical NLP pipeline for patient-friendly medical explanations**
 
-Transforms complex medical reports into understandable explanations using clinical NLP, evidence retrieval and multilingual output.
+Turns hard-to-read medical reports into plain-language explanations grounded in a curated, cited knowledge base, without ever diagnosing or prescribing. Output is safety-validated, then translated and spoken in Hindi, Tamil, Telugu and Malayalam.
 
-**Stack:** Python · BioBERT · Sentence Transformers · FAISS · spaCy · LLMs
+**Stack:** Python · FastAPI · HuggingFace Transformers · negspacy · FAISS · LLMs · NLLB · gTTS
 
-`Clinical NER` `Evidence Retrieval` `Grounded Generation` `Translation` `TTS`
+`Medical NER` `Negation Detection` `Grounded Generation` `Safety Validation` `Translation` `TTS`
 
 ## 🏢 Experience
 
