@@ -152,6 +152,14 @@ Worked with **Oracle Fusion Cloud AI Agent Studio**, focusing on enterprise AI u
 
 <img src="https://streak-stats.demolab.com?user=SakthiQ&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SakthiQ/SakthiQ/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SakthiQ/SakthiQ/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/SakthiQ/SakthiQ/output/github-snake-dark.svg" width="100%" alt="Snake eating my GitHub contribution graph"/>
+</picture>
+
 </div>
 
 ## 🧩 Core Competencies
