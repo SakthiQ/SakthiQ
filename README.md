@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./pixel-banner.svg" width="100%" alt="Pixel art coding workspace banner"/>
+<img src="./pixel-banner.svg" width="100%" alt="Pixel art of a coder at a desk in a room at night, with a neon sign, a round window and a sleeping cat"/>
 
 # 👋 Hey, I'm Sakthi Q
 
